@@ -1,0 +1,14 @@
+# docker-python
+
+* Arangodb ${IMAGE_VERSION} an Apline
+
+## Versions
+- Arangodb ${ARANGODB_VERSION}
+- Dockerize 0.6.1
+
+## Usage
+
+`docker run --rm chrisgarrett/arangodb:${IMAGE_VERSION}`
+
+
+## Credits
