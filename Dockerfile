@@ -1,6 +1,6 @@
-FROM arangodb:3.4.4
+FROM arangodb:3.4.8
 MAINTAINER Chris Garrett (https://github.com/chris-garrett/docker-arangodb)
-LABEL description="Arangodb 3.4.4-r0 Development Image"
+LABEL description="Arangodb 3.4.8-r0 Development Image"
 
 ENV DOCKERIZE_VERSION=v0.6.1
 
